@@ -1,4 +1,4 @@
-#!/Users/wiz/tensorFlow/bin/python
+#!/Users/wiz/train-sign-tensorflow/bin/python
 
 import sys
 import getopt
